@@ -368,7 +368,7 @@
 - [ ] `/* */`
 - [ ] `<!-- -->`
 - [ ] `//`
-- [ ] `(: :)`
+- [x] `(: :)`
 
 #### Q35. Which DOM node type may NOT have the EntityReference node type as one of its child nodes?
 
